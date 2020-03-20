@@ -6,3 +6,6 @@ List of data science projects
 
 ## Fake New Analysis
 [Repository](https://github.com/mohd-ahsan-mirza/fake-news-analysis)
+
+## Boston Housing data
+[Repository](https://github.com/mohd-ahsan-mirza/boston-housing-analysis)
