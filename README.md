@@ -2,4 +2,4 @@
 List of data science projects
 
 ## Wine quality test
-[URL](https://github.com/mohd-ahsan-mirza/wine-analysis)
+[Repository](https://github.com/mohd-ahsan-mirza/wine-analysis)
