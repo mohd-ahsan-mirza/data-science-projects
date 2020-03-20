@@ -9,3 +9,6 @@ List of data science projects
 
 ## Boston Housing data
 [Repository](https://github.com/mohd-ahsan-mirza/boston-housing-analysis)
+
+## Mall customer data
+[Repository](https://github.com/mohd-ahsan-mirza/mall-customer-data-analysis)
