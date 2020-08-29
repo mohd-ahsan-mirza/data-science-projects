@@ -12,3 +12,6 @@ List of data science projects
 
 ## Mall customer data
 [Repository](https://github.com/mohd-ahsan-mirza/mall-customer-data-analysis)
+
+## Fatal Police Shooting
+[Repository](https://github.com/mohd-ahsan-mirza/fatal-shooting-analysis-usa)
