@@ -15,3 +15,6 @@ List of data science projects
 
 ## Fatal Police Shooting
 [Repository](https://github.com/mohd-ahsan-mirza/fatal-shooting-analysis-usa)
+
+## ON Covid Vaccinations stats
+https://github.com/mohd-ahsan-mirza/ontario-covid-vaccine-stats
