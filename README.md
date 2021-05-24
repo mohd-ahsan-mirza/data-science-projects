@@ -7,6 +7,9 @@ List of data science projects
 ## Postgres Docker
 [Repository](https://github.com/mohd-ahsan-mirza/postgres-docker/)
 
+## Mongo Docker
+[Repository](https://github.com/mohd-ahsan-mirza/mongo-docker)
+
 ## Wine quality test
 [Repository](https://github.com/mohd-ahsan-mirza/wine-analysis)
 
