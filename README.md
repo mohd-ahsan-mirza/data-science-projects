@@ -10,6 +10,9 @@ List of data science projects
 ## Mongo Docker
 [Repository](https://github.com/mohd-ahsan-mirza/mongo-docker)
 
+## ON Covid Vaccinations stats
+[Repository](https://github.com/mohd-ahsan-mirza/ontario-covid-vaccine-stats)
+
 ## Wine quality test
 [Repository](https://github.com/mohd-ahsan-mirza/wine-analysis)
 
@@ -25,5 +28,5 @@ List of data science projects
 ## Fatal Police Shooting
 [Repository](https://github.com/mohd-ahsan-mirza/fatal-shooting-analysis-usa)
 
-## ON Covid Vaccinations stats
-https://github.com/mohd-ahsan-mirza/ontario-covid-vaccine-stats
+## Good reads
+[Repository](https://github.com/mohd-ahsan-mirza/big-data-management-goodreads)
